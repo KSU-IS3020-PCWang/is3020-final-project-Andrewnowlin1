@@ -1,11 +1,8 @@
-# IS 3020 Final Project
-
 ## Student and Project Information
-
-- Student name:
-- GitHub username:
-- Project title:
-- Application purpose:
+- **Student name:** Andrew Nowlin
+- **GitHub username:** Andrewnowlin1
+- **Project title:** IronLog: Command-Line Workout Split & Progressive Overload Tracker
+- **Application purpose:** A Python command-line tool that allows structured, weekly exercise routines (Push, Pull, Legs, and Steady State Cardio) to be easily tracked.
 
 ## How to Run the Application
 
